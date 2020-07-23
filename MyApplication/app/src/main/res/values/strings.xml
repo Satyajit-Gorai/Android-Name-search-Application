@@ -1,0 +1,138 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="my_names">
+        <item>Aladeen</item>
+        <item>Catheryn</item>
+        <item>Nicola  </item>
+        <item>Kyra  </item>
+        <item>Kathlyn </item>
+        <item>Mellissa  </item>
+        <item>Elenora  </item>
+        <item>Jalisa  </item>
+        <item>Eugenie  </item>
+        <item>Melissa  </item>
+        <item>Latonya  </item>
+        <item>Yuriko  </item>
+        <item>Almeda  </item>
+        <item>Nana  </item>
+        <item>Emilee  </item>
+        <item>Werner  </item>
+        <item>Sung  </item>
+        <item>Josephina  </item>
+        <item>Conchita  </item>
+        <item>Hiroko  </item>
+        <item>Verlie  </item>
+        <item>Emmie  </item>
+        <item>Caprice  </item>
+        <item>Stephanie  </item>
+        <item>Nena  </item>
+        <item>Cierra  </item>
+        <item>Norris  </item>
+        <item>Jonna  </item>
+        <item>Marvella  </item>
+        <item>Karmen  </item>
+        <item>Joseph  </item>
+        <item>Belia  </item>
+        <item>Cedrick  </item>
+        <item>Tuyet  </item>
+        <item>Amiee  </item>
+        <item>Lexie  </item>
+        <item>Corrina  </item>
+        <item>Brinda  </item>
+        <item>Eileen  </item>
+        <item>Hailey  </item>
+        <item>Arlen  </item>
+        <item>Dani  </item>
+        <item>Ali  </item>
+        <item>Robin  </item>
+        <item>Caron  </item>
+        <item>Lavona  </item>
+        <item>Thalia  </item>
+        <item>Karolyn  </item>
+        <item>Russell  </item>
+        <item>Earl  </item>
+        <item>Louvenia  </item>
+        <item>Romeo  </item>
+        <item>Franklyn  </item>
+        <item>Annamarie  </item>
+        <item>Quiana  </item>
+        <item>Sheba  </item>
+        <item>George</item>
+        <item>Ichiko</item>
+        <item>Indra</item>
+        <item>Oindrila</item>
+        <item>Odesse</item>
+        <item>Odin</item>
+        <item>Peter</item>
+        <item>Pinoccho</item>
+        <item>Piccolo</item>
+        <item>Quinn</item>
+        <item>Quincy</item>
+        <item>Quinton</item>
+        <item>Udesky</item>
+        <item>Uriel</item>
+        <item>Ursa</item>
+        <item>Xander</item>
+        <item>Xavier</item>
+        <item>Xavi</item>
+        <item>Xena</item>
+        <item>Zoey</item>
+        <item>Zara</item>
+        <item>Zane</item>
+        <item>Zelda</item>
+        <item>Venus  </item>
+        <item>Sharda  </item>
+        <item>Frank</item>
+        <item>Fernando</item>
+        <item>Frederick</item>
+        <item>Felix</item>
+        <item>Fabio</item>
+        <item>Finn</item>
+        <item>Sallie  </item>
+        <item>Leonia  </item>
+        <item>Siddhartha  </item>
+        <item>Willette  </item>
+        <item>Meghna  </item>
+        <item>Agripina  </item>
+        <item>Bud  </item>
+        <item>Nilda  </item>
+        <item>Judie  </item>
+        <item>Dennise  </item>
+        <item>Keli  </item>
+        <item>Lacresha  </item>
+        <item>Alethia  </item>
+        <item>Niki  </item>
+        <item>Larae  </item>
+        <item>Valery  </item>
+        <item>Estefana  </item>
+        <item>Coleen  </item>
+        <item>Breann  </item>
+        <item>Lakisha  </item>
+        <item>Shakia  </item>
+        <item>Carleen  </item>
+        <item>Maxwell  </item>
+        <item>Yevette  </item>
+        <item>Donette  </item>
+        <item>Joanna  </item>
+        <item>Cristi  </item>
+        <item>Theola  </item>
+        <item>Charlyn  </item>
+        <item>Marquis  </item>
+        <item>Pansy  </item>
+        <item>Arden  </item>
+        <item>Letitia  </item>
+        <item>Colby  </item>
+        <item>Maryam  </item>
+        <item>Darlena  </item>
+        <item>Coralee  </item>
+        <item>Slyvia  </item>
+        <item>Danette  </item>
+        <item>Bob  </item>
+        <item>Dennis  </item>
+        <item>Jadwiga  </item>
+        <item>Diego  </item>
+        <item>Jethalal</item>
+        <item>Mukesh</item>
+        <item>Harry</item>
+    </string-array>
+</resources>
